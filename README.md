@@ -1,25 +1,25 @@
-# 👋 Salut, je suis **Salim PEREIRA**  
-### Développeur Backend | Passionné par Laravel & Vue.js  
+# 👋 Hi, I'm **Salim PEREIRA**  
+### Backend Developer | Passionate about Laravel & Vue.js  
 
 ---
 
-## 🧑‍💻 À Propos de Moi  
-Je suis un développeur backend spécialisé dans **Laravel**, avec une passion pour créer des solutions web robustes et performantes.  
-Cette année, je me concentre sur **Vue.js** pour améliorer mes compétences en développement frontend.  
+## 🧑‍💻 About Me  
+I am a backend developer specializing in **Laravel**, with a passion for building robust and high-performing web solutions.  
+This year, I am focusing on **Vue.js** to improve my frontend development skills.  
 
-J’aime résoudre des problèmes complexes et transformer des idées en applications web efficaces.  
-
----
-
-## 🚀 Ce Que Je Fais  
-- ⚙️ **Laravel** : Développement backend, conception d’APIs sécurisées et architecture performante.  
-- 🌐 **Vue.js** : Création d’interfaces dynamiques et modernes (objectif d’apprentissage pour 2025).  
-- 🌟 **WordPress** : Personnalisation avancée (thèmes, plugins, CMS sur mesure).  
+I enjoy solving complex problems and turning ideas into effective web applications.  
 
 ---
 
-## 🛠️ Technologies & Outils  
-- **Langages & Frameworks**  
+## 🚀 What I Do  
+- ⚙️ **Laravel**: Backend development, creating secure APIs, and designing high-performance architectures.  
+- 🌐 **Vue.js**: Building dynamic and modern interfaces (learning goal for 2025).  
+- 🌟 **WordPress**: Building flexible **websites** and **e-commerce platforms** with custom themes and plugins.  
+
+---
+
+## 🛠️ Technologies & Tools  
+- **Languages & Frameworks**  
   ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)  
   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)  
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
@@ -29,7 +29,7 @@ J’aime résoudre des problèmes complexes et transformer des idées en applica
 - **CMS**  
   ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)  
 
-- **Outils**  
+- **Tools**  
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)  
@@ -37,8 +37,8 @@ J’aime résoudre des problèmes complexes et transformer des idées en applica
 
 ---
 
-## 📬 Me Contacter  
-- **Portfolio** : [Votre lien ici]  
-- **LinkedIn** : [Votre lien ici]  
+## 📬 Get In Touch  
+- **Portfolio**: ---
+- **LinkedIn**: www.linkedin.com/in/salim-pereira-5009422a2
 
-💬 Toujours ouvert pour échanger sur vos projets ou collaborer sur des idées intéressantes !  
+💬 Always open to discussing projects or collaborating on interesting ideas!  
