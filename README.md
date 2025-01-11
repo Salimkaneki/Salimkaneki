@@ -30,7 +30,6 @@ I enjoy turning complex problems into efficient solutions by building secure, sc
 ---
 
 ## 🌟 Highlights  
-- 🎯 **Current Goal**: Create a portfolio website with **Vue.js**.  
 - 🚀 **ArtyBe**: Worked on a platform for booking sports and cultural activities in African cities.  
 - 🌍 **Community Involvement**: Actively engaging in tech communities and participating in coding events.  
 
