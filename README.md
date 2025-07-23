@@ -1,5 +1,5 @@
 # **Salim PEREIRA**
-### Senior UI/UX Integrator & Product Designer
+### UI/UX Integrator & Product Designer
 
 > Transforming complex design challenges into exceptional digital experiences through strategic design thinking and technical excellence.
 
